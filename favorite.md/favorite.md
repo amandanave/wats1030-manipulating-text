@@ -1,0 +1,1 @@
+Although I enjoyed using them all, I think emacs was my favorite for this project. I feel like I picked up on using the commands the quickest. I also liked the commands in nano, but found it a little more difficult to navigate within a file. Vi was great once I got into the habit of shifting into the different modes to make changes then enter commands. 
